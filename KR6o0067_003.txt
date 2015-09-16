@@ -1,30 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:28.971408
+#+DATE: 2015-08-30 21:00:30.896178
 #+TITLE: 菩提行經
 #+PROPERTY: CBETA_ID T32n1662
 #+PROPERTY: ID KR6o0067
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1662
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0067_T_000-0543c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0067_T_003-0552b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《菩提行經》卷第三¶
+《菩提行經》卷第三¶
 ¶
 聖龍樹菩薩集頌¶
 西天中印度惹爛駄囉國¶
 密林寺三藏明教大師賜紫¶
 沙門臣天息災奉　詔譯¶
 
-6菩提心靜慮般若波羅蜜多品
-:PROPERTIES:
-:head: 菩提心靜慮般若波羅蜜多品第六
-:END:
-¶
+菩提心靜慮般若波羅蜜多品第六¶
 
 #+BEGIN_VERSE
 「　佛喜精進增

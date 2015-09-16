@@ -1,30 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:28.903101
+#+DATE: 2015-08-30 21:00:30.832128
 #+TITLE: 菩提行經
 #+PROPERTY: CBETA_ID T32n1662
 #+PROPERTY: ID KR6o0067
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1662
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0067_T_000-0543c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0067_T_001-0543c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1662¶
-
- 《菩提行經》卷第一¶
+No. 1662¶
+《菩提行經》卷第一¶
 ¶
 聖龍樹菩薩集頌¶
 西天中印度惹爛馱囉國¶
-密林寺三藏明教大師賜紫¶
-沙門臣天息災奉　詔譯¶
+密林寺三藏明教大師賜紫沙門臣天息災奉　詔譯¶
 
-1讚菩提心品
-:PROPERTIES:
-:head: 讚菩提心品第一
-:END:
-¶
+讚菩提心品第一¶
 
 #+BEGIN_VERSE
 「　如佛妙法體無邊
@@ -173,11 +167,7 @@ No.1662¶
 #+END_VERSE
 」¶
 
-2菩提心施供養品
-:PROPERTIES:
-:head: 《菩提行經》菩提心施供養品第二
-:END:
-¶
+《菩提行經》菩提心施供養品第二¶
 
 #+BEGIN_VERSE
 「　端彼摩尼恭敬心
@@ -191,7 +181,7 @@ No.1662¶
 　山中之寶及眾寶
 　適悅樹林寂靜處¶
 　蔓花莊嚴樹光明
-　結菓低垂枝𣘨橠¶
+　結菓低垂枝[橠-多+可]橠¶
 　人間天上香塗香
 　乃至劫樹及寶樹¶
 　池水清淨復莊嚴
@@ -236,11 +226,7 @@ No.1662¶
 #+END_VERSE
 」¶
 
-3護戒品
-:PROPERTIES:
-:head: 《菩提行經》護戒品第三
-:END:
-¶
+《菩提行經》護戒品第三¶
 
 #+BEGIN_VERSE
 「　持戒為護心

@@ -1,30 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:29.007071
+#+DATE: 2015-08-30 21:00:30.925452
 #+TITLE: 菩提行經
 #+PROPERTY: CBETA_ID T32n1662
 #+PROPERTY: ID KR6o0067
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1662
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0067_T_000-0543c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0067_T_004-0556c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《菩提行經》卷第四¶
+《菩提行經》卷第四¶
 ¶
 聖龍樹菩薩集頌¶
 西天中印度惹爛馱囉國密林¶
 寺三藏明教大師賜紫沙門臣¶
 天息災奉　詔譯¶
 
-7菩提心般若波羅蜜多品
-:PROPERTIES:
-:head: 菩提心般若波羅蜜多品第七
-:END:
-¶
+菩提心般若波羅蜜多品第七¶
 
 #+BEGIN_VERSE
 「　如來智慧仁
@@ -704,11 +699,7 @@
 #+END_VERSE
 」¶
 
-8菩提心迴向品
-:PROPERTIES:
-:head: 《菩提行經》菩提心迴向品第八
-:END:
-¶
+《菩提行經》菩提心迴向品第八¶
 
 #+BEGIN_VERSE
 「　菩提行若此
