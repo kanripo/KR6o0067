@@ -1,30 +1,25 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:28.937533
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:55
 #+TITLE: 菩提行經
 #+PROPERTY: CBETA_ID T32n1662
 #+PROPERTY: ID KR6o0067
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1662
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0067_T_000-0543c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0067_T_002-0547b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《菩提行經》卷第二¶
+《菩提行經》卷第二¶
 ¶
 聖龍樹菩薩集頌¶
 西天中印度惹爛駄囉國密林¶
 寺三藏明教大師賜紫沙門¶
 臣天息災奉　詔譯¶
 
-4菩提心忍辱波羅蜜多品
-:PROPERTIES:
-:head: 菩提心忍辱波羅蜜多品第四
-:END:
-¶
+* 菩提心忍辱波羅蜜多品第四¶
 
 #+BEGIN_VERSE
 「　奉行諸善業
@@ -568,15 +563,11 @@
 　快樂而長命
 <pb:KR6o0067_T_002-0550c>¶
 　富貴作輪王
-　斯皆從忍得
+　斯皆從忍得」
 #+END_VERSE
-」¶
-
-5菩提心精進波羅蜜多品
-:PROPERTIES:
-:head: 《菩提行經》菩提心精進波羅蜜多品第五
-:END:
 ¶
+
+* 《菩提行經》菩提心精進波羅蜜多品第五¶
 
 #+BEGIN_VERSE
 「　智者行忍辱
@@ -899,8 +890,8 @@
 　如彼覩羅綿
 　隨風而來往¶
 　精進人亦然
-　增上如是得
+　增上如是得」
 #+END_VERSE
-」¶
+¶
 《菩提行經》卷第二¶
 
